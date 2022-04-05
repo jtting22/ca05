@@ -48,3 +48,7 @@ Using logistic regression this project attempts to predict cardiovascular diseas
 There is no requirement to download a dataset or mount google drive.  The code in the repository should directly extract the dataset from this code:
 
 pd.read_csv('https://github.com/ArinB/CA05-B-Logistic-Regression/raw/master/cvd_data.csv')
+
+## Additional Comments
+
+If you have any additional comments or improvements please send to the author!
